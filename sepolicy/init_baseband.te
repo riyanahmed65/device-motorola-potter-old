@@ -13,3 +13,4 @@ r_dir_file(init_baseband, firmware_file)
 
 # Allow setting gsm. property
 set_prop(init_baseband, radio_prop)
+
